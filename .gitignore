@@ -1,0 +1,8 @@
+# node
+node_modules
+
+# lock
+package-lock.json
+
+# firebase
+firebase.json
